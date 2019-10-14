@@ -3,14 +3,15 @@
 
 
 # SonarQube
-- Server 다운로드 (https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-7.9.1.zip)
+- Server 다운로드 (https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-7.4.zip)
 - Client 다운로드 (https://binaries.sonarsource.com/Distribution/sonar-scanner-cli/sonar-scanner-cli-4.0.0.1744-windows.zip)
   
 - Server 설치
 1. 다운로드한 파일 압축풀기
 2. 서버실행
-	- StartSonar.bat 실행 (sonarqube-7.9.1\bin\windows-x86-64\StartSonar.bat)
-	- 서버실행 확인 ()
+	- StartSonar.bat 실행 (sonarqube-7.4\bin\windows-x86-64\StartSonar.bat)
+	- 서버실행 확인 (http://localhost:9000)
+	
 3. 
 
 - Client 설치
