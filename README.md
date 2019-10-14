@@ -50,6 +50,7 @@ sonar.password=admin
 ![image](https://user-images.githubusercontent.com/42139382/66747917-b89ded80-eec0-11e9-9442-d7701114e38e.png)
 
 4. 결과확인
+![image](https://user-images.githubusercontent.com/42139382/66748019-07e41e00-eec1-11e9-8a2e-e69de9ed2440.png)
 
 # RedCA4D
   - 
