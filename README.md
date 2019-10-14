@@ -64,8 +64,7 @@ sonar.password=admin
 ![image](https://user-images.githubusercontent.com/42139382/66748811-129fb280-eec3-11e9-8bcc-d0846507928c.png)
 
 8. 상세지표 확인 (Measure)
-![image](https://user-images.githubusercontent.com/42139382/66748897-55618a80-eec3-11e9-9cd9-28cd756974b6.png)
-
+![image](https://user-images.githubusercontent.com/42139382/66748963-7fb34800-eec3-11e9-8051-85ece701d4a5.png)
 
 
 
