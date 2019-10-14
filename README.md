@@ -47,7 +47,7 @@ sonar.password=admin
 프로젝트에서 CMD 열기 -> sonar-scanner 명령어 실행
 ![image](https://user-images.githubusercontent.com/42139382/66747433-7f18b280-eebf-11e9-9f48-2a8fac9b1d80.png)
 ![image](https://user-images.githubusercontent.com/42139382/66747723-27c71200-eec0-11e9-8218-440f5ad2ac61.png)
-
+![image](https://user-images.githubusercontent.com/42139382/66747917-b89ded80-eec0-11e9-9442-d7701114e38e.png)
 
 4. 결과확인
 
