@@ -3,8 +3,13 @@
 
 
 # SonarQube
-  - Server Download (https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-7.9.1.zip)
-  - Client Download ()
+- Server 다운로드 (https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-7.9.1.zip)
+- Client 다운로드 (https://binaries.sonarsource.com/Distribution/sonar-scanner-cli/sonar-scanner-cli-4.0.0.1744-windows.zip)
+  
+- Server 설치
+1. ㄴ
+2. ㄹ
+3. 
 
 # RedCA4D
   - 
