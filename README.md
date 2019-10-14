@@ -1,9 +1,10 @@
 ## <strong>Quality Check</strong>
 코드 품질 체크 Session
+
 SonarQube & RedCA
 
 ## SonarQube
-- **<font color="red">Step_0 소나큐브 아키텍쳐 소개</font>**
+- **Step_0 소나큐브 아키텍쳐 소개**
 
 https://docs.sonarqube.org/latest/architecture/architecture-integration/
 
