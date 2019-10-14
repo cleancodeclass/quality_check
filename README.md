@@ -10,6 +10,7 @@
 1. 다운로드한 파일 압축풀기
 2. 서버실행
 	1. StartSonar.bat 실행 (sonarqube-7.9.1\bin\windows-x86-64\StartSonar.bat)
+	2. 서버실행 확인 ()
 3. 
 
 - Client 설치
