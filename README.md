@@ -3,7 +3,7 @@
 
 
 ## SonarQube
-- *Step_1 다운로드*
+- **Step_1 다운로드**
 1. Server 다운로드 (https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-7.4.zip)
 2. Client 다운로드 (https://binaries.sonarsource.com/Distribution/sonar-scanner-cli/sonar-scanner-cli-4.0.0.1744-windows.zip)
   
