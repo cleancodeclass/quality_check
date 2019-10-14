@@ -40,6 +40,9 @@ sonar.login=admin
 sonar.password=admin
 ```
 2. 파일 배치
+인스펙션할 프로젝트 Root에 
+![image](https://user-images.githubusercontent.com/42139382/66747193-e84bf600-eebe-11e9-825e-5b6823985c9c.png)
+
 3. 커스터마이징
 4. 실행
 5. 결과확인
