@@ -3,24 +3,24 @@
 
 
 ## SonarQube
-- 다운로드
+- Step_1 다운로드
 1. Server 다운로드 (https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-7.4.zip)
 2. Client 다운로드 (https://binaries.sonarsource.com/Distribution/sonar-scanner-cli/sonar-scanner-cli-4.0.0.1744-windows.zip)
   
-- Server 설치
+- Step_2 Server 설치
 1. 다운로드한 파일 압축풀기
 2. 서버실행
 	- StartSonar.bat 실행 (sonarqube-7.4\bin\windows-x86-64\StartSonar.bat)
 	- 서버실행 확인 (http://localhost:9000)
 	![image](https://user-images.githubusercontent.com/42139382/66746721-863ec100-eebd-11e9-9168-850c81d12d01.png)
 	
-Step 1. Client 설치
+- Client 설치
 1. 다운로드한 파일 압축풀기
 2. 환경변수 설정
 3. 윈도우 cmd 에서 sonar-scanner 명령어 확인
 ![image](https://user-images.githubusercontent.com/42139382/66745823-09aae300-eebb-11e9-8b1b-5459567feefa.png)
 
-Step 2. sonar-project.properties 파일 적용
+- sonar-project.properties 파일 적용
 1. 파일 만들기
 ```
 sonar.projectKey=ccc:gildedrose
