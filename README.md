@@ -56,7 +56,9 @@ sonar.password=admin
 ![image](https://user-images.githubusercontent.com/42139382/66748279-bee09980-eec1-11e9-8481-d98765b6f122.png)
 
 6. 상세지표 확인 (Cognitive Complexity)
-![image](https://user-images.githubusercontent.com/42139382/66748386-02d39e80-eec2-11e9-998b-fb2cb4f345a3.png)
+![image](https://user-images.githubusercontent.com/42139382/66748469-3d3d3b80-eec2-11e9-8a4e-5b9bcda2106f.png)
+
+
 
 
 
