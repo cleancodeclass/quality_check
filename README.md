@@ -3,7 +3,7 @@
 SonarQube & RedCA
 
 ## SonarQube
-- **Step_0 소나큐브 아키텍쳐 소개**
+- **<font color="red">Step_0 소나큐브 아키텍쳐 소개</font>**
 
 https://docs.sonarqube.org/latest/architecture/architecture-integration/
 
