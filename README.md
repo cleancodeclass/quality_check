@@ -24,6 +24,21 @@
 
 - sonar-project.properties 파일 적용
 1. 파일 만들기
+```
+sonar.projectKey=ccc:gildedrose
+sonar.projectName=GildedRose
+sonar.projectVersion=1.0
+
+sonar.sourceEncoding=UTF-8
+
+sonar.sources=src/main/java
+sonar.java.binaries=bin
+
+sonar.host.url=http://localhost:9000
+
+sonar.login=admin
+sonar.password=admin
+```
 2. 파일 배치
 3. 커스터마이징
 4. 실행
