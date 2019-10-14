@@ -1,8 +1,11 @@
 ## <strong>Quality Check</strong>
 코드 품질 체크 Session
-
+SonarQube & RedCA
 
 ## SonarQube
+- **Step_0 소나큐브 아키텍쳐 소개**
+https://docs.sonarqube.org/latest/architecture/architecture-integration/
+
 - **Step_1 다운로드**
 1. Server 다운로드 (https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-7.4.zip)
 2. Client 다운로드 (https://binaries.sonarsource.com/Distribution/sonar-scanner-cli/sonar-scanner-cli-4.0.0.1744-windows.zip)
@@ -69,4 +72,4 @@ sonar.password=admin
 
 
 ## RedCA4D
-  - 
+  - 현장에서 설명
