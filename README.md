@@ -15,6 +15,7 @@
 1. 다운로드한 파일 압축풀기
 2. 환경변수 설정
 3. 윈도우 cmd 에서 sonar-scanner 명령어 확인
+![image](https://user-images.githubusercontent.com/42139382/66745823-09aae300-eebb-11e9-8b1b-5459567feefa.png)
 
 
 # RedCA4D
