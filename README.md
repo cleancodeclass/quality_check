@@ -11,6 +11,8 @@
 2. 서버실행
 	- StartSonar.bat 실행 (sonarqube-7.4\bin\windows-x86-64\StartSonar.bat)
 	- 서버실행 확인 (http://localhost:9000)
+	![image](https://user-images.githubusercontent.com/42139382/66746721-863ec100-eebd-11e9-9168-850c81d12d01.png)
+	
 	
 3. 
 
