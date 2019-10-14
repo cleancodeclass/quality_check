@@ -55,6 +55,10 @@ sonar.password=admin
 5. 대시보드 확인
 ![image](https://user-images.githubusercontent.com/42139382/66748279-bee09980-eec1-11e9-8481-d98765b6f122.png)
 
+6. 상세지표 확인 (Cognitive Complexity)
+![image](https://user-images.githubusercontent.com/42139382/66748386-02d39e80-eec2-11e9-998b-fb2cb4f345a3.png)
+
+
 
 # RedCA4D
   - 
